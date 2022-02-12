@@ -19,10 +19,10 @@
                         <div class="row">
                             <div class="col-xl-6 col-lg-6 col-md-6">
                                 <div class="single-features mb-70">
-                                    <div class="features-icon">
-                                        <span class="flaticon-support"></span>
+                                    <div class="">
+                                        <!-- <span class="flaticon-support"></span> -->
                                     </div>
-                                    <div class="features-caption">
+                                    <div class="">
                                         <h3>Ease of Use</h3>
                                         <p style="color:gray">Submitting lost or found items is simple and hasle free.
                                             Input the required information and let our system got to work
@@ -33,9 +33,9 @@
                              <div class="col-xl-6 col-lg-6 col-md-6">
                                 <div class="single-features mb-70">
                                     <div class="features-icon">
-                                        <span class="flaticon-support"></span>
+                                        <!-- <span class="flaticon-support"></span> -->
                                     </div>
-                                    <div class="features-caption">
+                                    <div class="">
                                         <h3>Intelligent Matching</h3>
                                         <p style="color:gray">Our lost and found matching system intelligently finds and locates items lost 
                                         or found and who potentially has them.</p>
@@ -44,10 +44,10 @@
                             </div> 
                             <div class="col-xl-6 col-lg-6 col-md-6">
                                 <div class="single-features mb-70">
-                                    <div class="features-icon">
-                                        <span class="flaticon-support"></span>
+                                    <div class="">
+                                        <!-- <span class="flaticon-support"></span> -->
                                     </div>
-                                    <div class="features-caption">
+                                    <div class="">
                                         <h3>Securing Assets</h3>
                                         <p style="color:gray">FindIt System helps someone to secure his/her assets from getting lost.</p>
                                     </div>
@@ -55,12 +55,12 @@
                             </div>
                              <div class="col-xl-6 col-lg-6 col-md-6">
                                 <div class="single-features mb-70">
-                                    <div class="features-icon">
-                                        <span class="flaticon-support"></span>
+                                    <div class="">
+                                        <!-- <span class="flaticon-support"></span> -->
                                     </div>
-                                    <div class="features-caption">
-                                        <h3>Manage shared Assets</h3>
-                                        <p style="color:gray">Aorem psum olorsit amet ectetur adipiscing elit, sed dov.</p>
+                                    <div class="">
+                                        <h3>Managing Your Assets</h3>
+                                        <p style="color:gray">Find System helps someone to manage his/her assets while keeeping track on the system</p>
                                     </div>
                                 </div>
                             </div>
@@ -70,7 +70,7 @@
             </div>
             <!-- Shpe -->
             <div class="features-shpae features-shpae2 d-none d-lg-block">
-                <img src="assets/img/shape/best-features.png" alt="">
+                <img src="assets/img/hero/edu.jpeg" alt=""  style="width: 700px; height:auto">
             </div>
         </section>
         <!-- Best Features End -->
@@ -96,7 +96,7 @@
                                     </div>
                                     <div class="what-cap">
                                         <h4><a href="#" style="color:black">Edwin Oyunge</a></h4>
-                                        <p style="color:#8f8b8b">Utenim ad minim veniam quisnostrud exercitation ullamcolabor nisiut aliquip ex ea commodo consequat duis aute irure dolor in represse.</p>
+                                        <p style="color:#8f8b8b">I lost my Id at JKIA Airport through findit application Iwas able to get it,I reported it as lost and some one posted it on the application</p>
                                     </div>
                                 </div>
                             
@@ -106,7 +106,7 @@
                                     </div>
                                     <div class="what-cap">
                                         <h4><a href="#" style="color:black">Austine Zalo</a></h4>
-                                        <p style="color:#8f8b8b">Utenim ad minim veniam quisnostrud exercitation ullamcolabor nisiut aliquip ex ea commodo consequat duis aute irure dolor in represse.</p>
+                                        <p style="color:#8f8b8b">I lost my Id at JKIA Airport through findit application Iwas able to get it,I reported it as lost and some one posted it on the application</p>
                                     </div>
                                 </div>
                             
@@ -116,7 +116,7 @@
                                     </div>
                                     <div class="what-cap">
                                         <h4><a href="#" style="color:black">Andrew Tiema</a></h4>
-                                        <p style="color:#8f8b8b">Utenim ad minim veniam quisnostrud exercitation ullamcolabor nisiut aliquip ex ea commodo consequat duis aute irure dolor in represse.</p>
+                                        <p style="color:#8f8b8b">I lost my Id at JKIA Airport through findit application Iwas able to get it,I reported it as lost and some one posted it on the application</p>
                                     </div>
                                 </div>
                             
@@ -126,7 +126,7 @@
                                     </div>
                                     <div class="what-cap">
                                         <h4><a href="#" style="color:black">Walter Anangwe</a></h4>
-                                        <p style="color:#8f8b8b">Utenim ad minim veniam quisnostrud exercitation ullamcolabor nisiut aliquip ex ea commodo consequat duis aute irure dolor in represse.</p>
+                                        <p style="color:#8f8b8b">I lost my Id at JKIA Airport through findit application Iwas able to get it,I reported it as lost and some one posted it on the application</p>
                                     </div>
                                 </div>
                             
@@ -155,10 +155,10 @@
                 </div>
             </div>
             <!-- shape -->
-            <div class="say-shape">
+            <!-- <div class="say-shape">
                 <img src="assets/img/shape/say-shape-left.png" alt="" class="say-shape1 rotateme d-none d-xl-block">
                 <img src="assets/img/shape/say-shape-right.png" alt="" class="say-shape2 d-none d-lg-block">
-            </div>
+            </div> -->
         </div>
         <!-- Say Something End -->
      

@@ -26,7 +26,7 @@
                             </div>
                             <div class="col-lg-6">
                                 <div class="hero__img d-none d-lg-block f-right" data-animation="fadeInRight" data-delay="1s">
-                                <img src="assets/img/hero/hero_right.png" alt="">
+                                <img src="assets/img/hero/edu.jpeg" alt="" style="width: 400px; height:auto" >
                                 </div>
                             </div>
                         </div>
@@ -51,7 +51,7 @@
                             </div>
                             <div class="col-lg-6">
                                 <div class="hero__img d-none d-lg-block f-right" data-animation="fadeInRight" data-delay="1s">
-                                    <img src="assets/img/hero/hero_right.png" alt="">
+                                    <!-- <img src="assets/img/hero/hero_right.png" alt=""> -->
                                 </div>
                             </div>
                         </div>
@@ -61,7 +61,7 @@
         </div>
         <!-- Slider Area End -->
         <!-- Best Features Start -->
-        <section class="best-features-area section-padd4">
+        <section class="best-features-area inner-padding">
             <div class="container">
                 <div class="row justify-content-end">
                     <div class="col-xl-8 col-lg-10">
@@ -77,10 +77,10 @@
                         <div class="row">
                             <div class="col-xl-6 col-lg-6 col-md-6">
                                 <div class="single-features mb-70">
-                                    <div class="features-icon">
-                                        <span class="flaticon-support"></span>
+                                    <div class="">
+                                        <!-- <span class="flaticon-support"></span> -->
                                     </div>
-                                    <div class="features-caption">
+                                    <div class="">
                                         <h3>Ease of Use</h3>
                                         <p style="color:gray">Submitting lost or found items is simple and hasle free.
                                             Input the required information and let our system got to work
@@ -91,9 +91,9 @@
                              <div class="col-xl-6 col-lg-6 col-md-6">
                                 <div class="single-features mb-70">
                                     <div class="features-icon">
-                                        <span class="flaticon-support"></span>
+                                        <!-- <span class="flaticon-support"></span> -->
                                     </div>
-                                    <div class="features-caption">
+                                    <div class="">
                                         <h3>Intelligent Matching</h3>
                                         <p style="color:gray">Our lost and found matching system intelligently finds and locates items lost 
                                         or found and who potentially has them.</p>
@@ -102,10 +102,10 @@
                             </div> 
                             <div class="col-xl-6 col-lg-6 col-md-6">
                                 <div class="single-features mb-70">
-                                    <div class="features-icon">
-                                        <span class="flaticon-support"></span>
+                                    <div class="">
+                                        <!-- <span class="flaticon-support"></span> -->
                                     </div>
-                                    <div class="features-caption">
+                                    <div class="">
                                         <h3>Securing Assets</h3>
                                         <p style="color:gray">FindIt System helps someone to secure his/her assets from getting lost.</p>
                                     </div>
@@ -113,12 +113,12 @@
                             </div>
                              <div class="col-xl-6 col-lg-6 col-md-6">
                                 <div class="single-features mb-70">
-                                    <div class="features-icon">
-                                        <span class="flaticon-support"></span>
+                                    <div class="">
+                                        <!-- <span class="flaticon-support"></span> -->
                                     </div>
-                                    <div class="features-caption">
-                                        <h3>Manage shared Assets</h3>
-                                        <p style="color:gray">Aorem psum olorsit amet ectetur adipiscing elit, sed dov.</p>
+                                    <div class="">
+                                        <h3>Managing Your Assets</h3>
+                                        <p style="color:gray">Find System helps someone to manage his/her assets while keeeping track on the system</p>
                                     </div>
                                 </div>
                             </div>
@@ -127,12 +127,11 @@
                 </div>
             </div>
             <!-- Shpe -->
-            <div class="features-shpae d-none d-lg-block">
-                <img src="assets/img/shape/best-features.png" alt="">
-            </div>
+            <div class="features-shpae features-shpae2 d-none d-lg-block">
+            <img src="assets/img/shape/best.jpeg" alt=""  style="width: 700px; height:auto">            </div>
         </section>
         <!-- Best Features End -->
-       
+        
         <!-- Applic App Start -->
         <div class="applic-apps section-padding2">
             <div class="container-fluid">
@@ -175,7 +174,7 @@
                   
         <!-- Our Customer End -->
         <!-- Available App  Start-->
-        <div class="available-app-area">
+        <!-- <div class="available-app-area">
             <div class="container">
                 <div class="row d-flex justify-content-between">
                     <div class="col-xl-5 col-lg-6">
@@ -196,14 +195,14 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
             <!-- Shape -->
-            <div class="app-shape">
+            <!-- <div class="app-shape">
                 <img src="assets/img/shape/app-shape-top.png" alt="" class="app-shape-top heartbeat d-none d-lg-block">
-                <img src="assets/img/shape/app-shape-left.png" alt="" class="app-shape-left d-none d-xl-block">
+                <img src="assets/img/shape/app-shape-left.png" alt="" class="app-shape-left d-none d-xl-block"> -->
                 <!-- <img src="assets/img/shape/app-shape-right.png" alt="" class="app-shape-right bounce-animate "> -->
-            </div>
-        </div>
+            <!-- </div>
+        </div> -->
         <!-- Available App End-->
         <!-- Say Something Start -->
         <div class="say-something-aera pt-90 pb-90 fix">
@@ -222,10 +221,10 @@
                 </div>
             </div>
             <!-- shape -->
-            <div class="say-shape">
+            <!-- <div class="say-shape">
                 <img src="assets/img/shape/say-shape-left.png" alt="" class="say-shape1 rotateme d-none d-xl-block">
                 <img src="assets/img/shape/say-shape-right.png" alt="" class="say-shape2 d-none d-lg-block">
-            </div>
+            </div> -->
         </div>
         <!-- Say Something End -->
      

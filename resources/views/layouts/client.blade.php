@@ -144,7 +144,7 @@
                 </div>
                 <!-- Copy-Right -->
                 <div class="row align-items-center">
-                    <div class="col-xl-12 ">/
+                    <div class="col-xl-12 ">
                         <div class="footer-copy-right">
                            <p style="color:gray">
   Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved FindSystems</a>
