@@ -9,13 +9,17 @@
             <div class="row d-flex justify-content-center">
                 <div class="col-lg-8">
                     <div class="section-tittle text-center mb-80">
-                        <h2 style="color:black">Contact Us​</h2>
+                        <h2 style="color:black">Contact us​</h2>
                     </div>
+
                 </div>
             </div>
         </div>
     </div>
     <!-- Slider Area End-->
+
+
+    
 
     <!-- ================ contact section start ================= -->
     <section class="contact-section">
